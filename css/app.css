@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap');
+*{ font-family: 'Montserrat Alternates', sans-serif; }
+
+.bg-gradient{
+    background: linear-gradient(55deg, rgb(27, 236, 236), blue);
+}
+
+.nav-link.text-dark {
+ 
+    text-align: center;
+    width: 118px;    
+    background:#007bff;
+    right:20px;
+    bottom: 2px;
+    font-size: 15px;
+    text-decoration: none;
+    border-radius: 18px;
+    transition:all 0.5s;
+    padding: 6px 20px;
+}
+.nav-link.text-dark:hover {
+    background: rgb(17, 17, 131) ;
+    transition:all 0.5s;
+}
+
+.fonte{
+    color: blue;
+}
