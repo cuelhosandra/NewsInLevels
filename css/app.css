@@ -26,3 +26,8 @@
 .fonte{
     color: blue;
 }
+
+.linhahorizontal{
+    width: 1116px;
+    border: 0.3px solid #000;
+  }
